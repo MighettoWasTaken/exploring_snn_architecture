@@ -86,3 +86,5 @@ class Neuron_soup(nn.Module):
         return [spk1_rec, spk2_rec, spk3_rec, spk4_rec], mem4
     
 
+
+
