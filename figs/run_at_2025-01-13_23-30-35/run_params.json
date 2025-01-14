@@ -1,0 +1,1 @@
+{"beta": 0.95, "learning_rate": 0.001, "batch_size": 32, "num_epochs": 5, "hidden_width_mome": 144, "hidden_width_standard": 244, "params_mome": 139826, "params_standard": 139814, "hidden_layers": 3, "key_topk": 8, "per_head_topk": 64, "normalize_params": true, "normalize_neurons": false, "training_data": "TestDataSet_1024", "testing_data": "VariedTrainingData"}
